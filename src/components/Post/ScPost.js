@@ -108,13 +108,18 @@ export const ScPaginationWrapper = Styled.div`
       li{
         border: 1px solid #ccc;
         background-color: #fff;
+        color:#00cdac;
         button{
           cursor: pointer;
           font-size: .88rem;
           padding: .5rem;
           background-color: transparent ;
           border:none;
-          color: #00cdac;
+          color:inherit;
+        }
+        :hover{
+          background-color: #00cdac;
+          color:#fff;
         }
       }
     }
