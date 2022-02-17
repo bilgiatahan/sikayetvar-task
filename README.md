@@ -1,7 +1,7 @@
 # About The Project
 
 This project gets data using [API](https://jsonplaceholder.typicode.com/posts), that is listing, editing, deleting
-!(./project.gif)
+[]!(./project.gif)
 
 ## Getting Started
 
